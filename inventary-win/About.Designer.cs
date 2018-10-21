@@ -62,7 +62,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(243, 13);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Creditos: Daniel Orozco - Desarrollador";
+            this.label3.Text = "";
             
             // 
             // label4
